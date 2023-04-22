@@ -372,7 +372,6 @@ PRODUCT_PACKAGES += \
     libmmosal_vendor \
     libnetmgr \
     libopf \
-    libpvr \
     libqcci_legacy \
     libqcmaputils \
     libqdi \
@@ -661,7 +660,7 @@ PRODUCT_PACKAGES += \
     libril-qcril-hook-oem \
     librilqmiservices \
     librpmb \
-    libsdedrm \
+    libsdm-colormgr-algo.so \
     libsdm-color \
     libsdm-diag \
     libsdm-disp-vndapis \
@@ -904,7 +903,7 @@ PRODUCT_PACKAGES += \
     lowi-server \
     mdm_helper \
     mlid \
-    mm-pp-dpps \
+    ppd \
     msm_irqbalance \
     netmgrd \
     opf-service \
