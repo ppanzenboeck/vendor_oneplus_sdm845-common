@@ -966,3 +966,6 @@ PRODUCT_PACKAGES += \
     xtwifi-inet-agent \
     dpmd \
     wfdservice
+
+PRODUCT_PACKAGES += \
+    system_ext_priv-app_WfdService_lib_arm64_libwfdnative_so
