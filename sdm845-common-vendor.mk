@@ -534,7 +534,6 @@ PRODUCT_PACKAGES += \
     libmulawdec \
     libop_jpeg \
     libopcamera_native_modules \
-    libpn553_fw \
     libqtigef \
     libsmwrapper \
     libst_relighting \
@@ -669,6 +668,7 @@ PRODUCT_PACKAGES += \
     libpdmapper \
     libpdnotifier \
     libperipheral_client \
+    libpn553_fw \
     libqcbor \
     libqcc_file_agent \
     libqcrilFramework \
