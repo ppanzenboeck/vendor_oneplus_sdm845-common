@@ -602,6 +602,7 @@ PRODUCT_PACKAGES += \
     libdataitems \
     libdisp-aba \
     libdisplayqos \
+    libdisplayskuutils \
     libdpmqmihal \
     libdrmfs \
     libdrmtime \
