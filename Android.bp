@@ -24,32 +24,6 @@ cc_prebuilt_library_shared {
     target: {
         android_arm: {
             srcs: [
-                "proprietary/vendor/li//
-// Automatically generated file. DO NOT MODIFY
-//
-
-soong_namespace {
-    imports: [
-        "device/oneplus/sdm845-common",
-        "hardware/oneplus",
-        "hardware/qcom-caf/sdm845",
-        "hardware/qcom-caf/wlan",
-        "vendor/qcom/opensource/commonsys-intf/display",
-        "vendor/qcom/opensource/commonsys/display",
-        "vendor/qcom/opensource/dataservices",
-        "vendor/qcom/opensource/display",
-    ],
-}
-
-cc_prebuilt_library_shared {
-    name: "btaudio_offload_if",
-    owner: "oneplus",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm: {
-            srcs: [
                 "proprietary/vendor/lib/btaudio_offload_if.so",
             ],
             shared_libs: [
