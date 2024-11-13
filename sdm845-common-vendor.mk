@@ -661,7 +661,7 @@ PRODUCT_PACKAGES += \
     libril-qcril-hook-oem \
     librilqmiservices \
     librpmb \
-    libsdm-colormgr-algo.so \
+    libsdm-colormgr-algo \
     libsdm-color \
     libsdm-diag \
     libsdm-disp-vndapis \
