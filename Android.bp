@@ -91,6 +91,7 @@ cc_prebuilt_binary {
         },
     },
     compile_multilib: "64",
+    check_elf_files: false,
     strip: {
         none: true,
     },
@@ -17589,6 +17590,7 @@ cc_prebuilt_binary {
         },
     },
     compile_multilib: "64",
+    check_elf_files: false,
     strip: {
         none: true,
     },
