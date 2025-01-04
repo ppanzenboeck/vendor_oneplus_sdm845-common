@@ -351,16 +351,6 @@ PRODUCT_PACKAGES += \
     vulkan.adreno \
     libC2D2 \
     libCB \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxEvrcDec \
-    libOmxG711Dec \
-    libOmxQcelp13Dec \
-    libOmxVpp \
-    libOmxWmaDec \
     libOpenCL \
     libQSEEComAPI \
     libVkLayer_q3dtools \
@@ -473,8 +463,8 @@ PRODUCT_PACKAGES += \
     com.qti.chi.override \
     sound_trigger.primary.sdm845 \
     libFileMux_proprietary \
-    libOmxDsdDec \
     libOmxVideoDSMode \
+    libOmxVpp \
     libSTDualCamCaptureBokeh \
     libSTDualCamPreviewBokeh \
     libSTdisp \
@@ -513,7 +503,6 @@ PRODUCT_PACKAGES += \
     libcom.qti.chinodeutils \
     libcvface_api \
     libdiracgefwrapper \
-    libdsd2pcm \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
