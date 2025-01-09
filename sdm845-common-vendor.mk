@@ -514,10 +514,6 @@ PRODUCT_PACKAGES += \
     libmmcamera_faceproc2 \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
-    libmms_gyro_vstab \
-    libmms_gyro_vstab_auth \
-    libmms_hal_vstab \
-    libmms_warper_vstab \
     libmpbase \
     libmulawdec \
     libop_jpeg \
